@@ -8,7 +8,10 @@ export const GlobalStyle = createGlobalStyle`
  }
 
  body{
+	display: flex;
+	justify-content: center;
 	background-color: #656C7D;
+	height: 100vh;
  }
 
 
